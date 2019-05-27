@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="59px" viewBox="0 0 59 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <circle id="path-1" cx="29.5" cy="29.5" r="29.5"></circle>
+    </defs>
+    <g id="Buttons/Icons/Play-button-Normal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-14.000000, -11.000000)">
+        <g id="Group-2-Copy" transform="translate(14.000000, 11.000000)">
+            <g id="Oval-2">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <circle stroke="#EAEAEA" stroke-width="1" cx="29.5" cy="29.5" r="29"></circle>
+            </g>
+            <path d="M22,22.7474162 L22,36.2833509 C22,37.9402052 23.3431458,39.2833509 25,39.2833509 C25.5342154,39.2833509 26.0587411,39.1407017 26.5193759,38.8701437 L38.0420866,32.1021763 C39.4707328,31.2630482 39.9486316,29.4246538 39.1095035,27.9960076 C38.8504953,27.5550368 38.4830575,27.187599 38.0420866,26.9285908 L26.5193759,20.1606234 C25.0907297,19.3214952 23.2523354,19.7993941 22.4132072,21.2280403 C22.1426492,21.6886751 22,22.2132008 22,22.7474162 Z" id="Path-3" fill="#454545"></path>
+        </g>
+    </g>
+</svg>
